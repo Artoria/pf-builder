@@ -1,2 +1,2 @@
 # pf-builder
-young simple brute-force naive verbose Haskell point-free builder DSL in Ruby
+young simple brute-force naive verbose Haskell point-free builder  Ruby DSL 
